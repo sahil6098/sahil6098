@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Sahil%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Sahil%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;NLP+%7C+Machine+Learning+%7C+LLMs+%F0%9F%A7%A0;RAG+Systems+%7C+Vector+Search+%7C+GenAI+%F0%9F%9A%80;Full+Stack+%7C+Flask+%7C+FastAPI+%7C+Streamlit+%F0%9F%94%A5)](https://git.io/typing-svg)
