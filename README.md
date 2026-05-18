@@ -10,7 +10,6 @@
 
 <!-- Profile Views + Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=sahil6098&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/sahil6098?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/sahil6098?tab=followers)
 
 </div>
 
